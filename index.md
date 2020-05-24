@@ -5,15 +5,15 @@ title: 高橋 右のレジュメ
 # 高橋 右
 ソフトウェア・エンジニア, teamLab,inc
 
-主な専門領域は，分散システム, 3Dグラフィックス, 言語処理系, Web, デジタル・ファブリケーション．プログラミング歴10年（2020年現在），職歴2年．
+主な専門領域は，分散システム, 言語処理系, Web, デジタル・ファブリケーション，3Dグラフィックス．プログラミング歴10年（2020年現在），職歴2年．
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
 <div id="webaddress" class="only_show_on_web">
   <a href="https://supertask.jp"><i class="fas fa-home"></i> supertask.jp</a> -
   <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a> -
   <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a><br />
   <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research</a> -
-  <a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>
-  <!--<a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />-->
+  <!--<a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>-->
+  <a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />
 </div>
 
 <div id="webaddress_pdf" class="only_show_on_pdf">
@@ -21,8 +21,8 @@ title: 高橋 右のレジュメ
   <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a>
   <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a>
   <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research</a>
-  <a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>
-  <!--<a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />-->
+  <!--<a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>-->
+  <a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />
 </div>
 
 ## 学歴
